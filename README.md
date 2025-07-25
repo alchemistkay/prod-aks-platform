@@ -2,9 +2,7 @@
 
 # Production-Ready Azure Kubernetes Platform with Terraform
 
-This repository showcases a real-world, production-grade Azure Kubernetes Service (AKS) platform built entirely with Terraform — reflecting best practices in security, scalability, cost optimization, and modularity.
-
-> Created during a hands-on engagement as a **DevOps Engineer**, While based on live production work, all references have been generalized for confidentiality.
+This repository showcases a real-world, production-grade Azure Kubernetes Service (AKS) platform built entirely with Terraform — reflecting best practices in security, scalability, cost optimisation, and modularity.
 
 ---
 ## Key Features
